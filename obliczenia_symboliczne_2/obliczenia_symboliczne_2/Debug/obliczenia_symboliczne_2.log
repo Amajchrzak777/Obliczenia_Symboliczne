@@ -1,0 +1,6 @@
+﻿  obliczenia_symboliczne_2.cpp
+C:\Users\Adaś\Desktop\Obliczenia_Symboliczne_laboratoria\obliczenia_symboliczne_2\obliczenia_symboliczne_2\obliczenia_symboliczne_2.cpp(108,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Adaś\Desktop\Obliczenia_Symboliczne_laboratoria\obliczenia_symboliczne_2\obliczenia_symboliczne_2\obliczenia_symboliczne_2.cpp(125,18): warning C4101: "xR": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Adaś\Desktop\Obliczenia_Symboliczne_laboratoria\obliczenia_symboliczne_2\obliczenia_symboliczne_2\obliczenia_symboliczne_2.cpp(125,15): warning C4101: "p": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Adaś\Desktop\Obliczenia_Symboliczne_laboratoria\obliczenia_symboliczne_2\obliczenia_symboliczne_2\obliczenia_symboliczne_2.cpp(125,9): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+  obliczenia_symboliczne_2.vcxproj -> C:\Users\Adaś\Desktop\Obliczenia_Symboliczne_laboratoria\obliczenia_symboliczne_2\Debug\obliczenia_symboliczne_2.exe
